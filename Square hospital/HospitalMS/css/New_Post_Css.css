@@ -1,0 +1,139 @@
+
+/*physicians Start*/
+#main_pshysican{
+margin-left:203px;
+WIDTH: 960px;
+height: 850px;
+top:30px;
+border:1px solid green;
+line-height:30px;
+}
+
+#physicians{
+width:550px;
+height:600px;
+margin:auto;
+padding:100px;
+padding-left:150px;
+margin:auto;
+}
+#physicians button{
+width:75px;
+height:35px;
+}
+/*physicians end*/
+/*account setting start*/
+
+#ac_setting{
+width:500px;
+height:400px;
+margin:auto;
+position:relative;
+top:60px;
+padding:30px 30px;
+line-height:40px;
+background:#9999CC;
+
+}
+#personal_info{
+width:170px;
+height:400px;
+float:left;
+text-align:right;
+}
+.change_pw{
+width:300px;
+height:400px;
+position:relative;
+left:5px;
+float:left;
+
+}
+.change_pw input{
+width:190px;
+}
+
+#button{
+word-spacing:190px;
+}
+#button button{
+width:90px;
+height:30px;
+}
+#main_ac_setting{
+width:960px;
+height:665px;
+margin:auto;
+background:#9999CC;
+}
+
+/*account setting end*/
+
+/*Slider start*/
+
+#slider{
+width:700px;
+height:600px;
+margin:auto;
+}
+
+#slider div{
+width:550px;
+height:250px;
+margin:auto;
+position:relative;
+top:226px;
+margin-left:60px;
+line-height:40px;
+
+}
+#main_slider{
+width:960px;
+height:600px;
+margin-left:203px;
+border:1px solid green;
+
+}
+
+#slider button{
+
+position:absolute;
+top:520px;
+left:500px;
+width:80px;
+height:30px;
+background:#2A88C7;
+border:1px solid blue;
+
+}
+/*career start*/
+
+
+/*Slider end*/
+
+#main_carer{
+margin-left:203px;
+WIDTH: 960px;
+height: 1000px;
+border:1px solid green;
+}
+
+/*career end*/
+
+
+/*news & events start*/
+#main_news_events{
+margin-left:203px;
+WIDTH: 960px;
+height: 600px;
+border:1px solid green;
+}
+
+#news_events{
+margin:auto;
+WIDTH: 600px;
+height: 500px;
+line-height:30px;
+}
+
+/*news & events end*/
